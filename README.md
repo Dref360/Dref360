@@ -6,7 +6,7 @@ I'm slowly learning frontend development with React 🚀 and I have strong skill
 
 #### Opensource
 
-I'm a strong believer in opensource, I was chairman at Keras before co-founding [BaaL](https://github.com/ElementAI/baal), an active learning library. Recently, I worked on opensourcing [Azimuth](https://github.com/ServiceNow/azimuth), an error analysis tool for text classification.
+I'm a strong believer in opensource, I was chairman at Keras before co-founding [Baal](https://github.com/baal-org/baal), an active learning library. Recently, I worked on opensourcing [Azimuth](https://github.com/ServiceNow/azimuth), an error analysis tool for text classification.
 
 I'm looking for new projects to contribute to, please contact me if you need some help!
 I am learning more about the HuggingFace 🤗 and Pytorch Lightning ecosystems which I find fantastic! 
